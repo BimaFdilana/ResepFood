@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ResepFood</string>
+    <string name="title_activity_navigation">ResepFood</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Resep</string>
+    <string name="title_notifications">Profile</string>
+</resources>
